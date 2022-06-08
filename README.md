@@ -8,6 +8,10 @@ Web scraping is done on [indiamart.com](https://dir.indiamart.com/)
 
 
 Prerequisite:
-1.Pandas-to write into a .csv file
-2.Selenium-to load the dynamic web page
-3.BeautifulSoup-for parsing HTML and XML documents .
+
+
+1.Pandas-to write into a .csv file.
+
+2.Selenium-to load the dynamic web page.
+
+3.BeautifulSoup-for parsing HTML and XML documents.
